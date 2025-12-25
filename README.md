@@ -17,19 +17,19 @@ PORT=3001
 CLIENT_URL=http://localhost:3000
 ```
 
-# Development mode
+## Development mode
 
 ```bash
 npm run dev
 ```
 
-# Production build
+## Production build
 
 ```bash
 npm start
 ```
 
-# The domain on vercel
+## The domain on vercel
 
 ```bash
 https://patient-staff-backend.onrender.com
