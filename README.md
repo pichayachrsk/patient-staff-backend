@@ -10,8 +10,7 @@ Installation
 npm install
 ```
 
-Environment Variables
-- Create a .env file in the root folder:
+Environment Variables : Create a .env file in the root folder:
 
 ```bash
 PORT=3001
@@ -19,10 +18,19 @@ CLIENT_URL=http://localhost:3000
 ```
 
 # Development mode
+
+```bash
 npm run dev
+```
 
 # Production build
-npm start
 
-# the domain on vercel
+```bash
+npm start
+```
+
+# The domain on vercel
+
+```bash
 https://patient-staff-backend.onrender.com
+```
