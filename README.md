@@ -1,7 +1,5 @@
 ## Description
-The server-side core of the Patient-Staff System, This backend acts as a real-time bridge, relaying patient form data to staff monitors.
-
-Tech Stack: Node.js + TypeScript + Socket.io (WebSockets) + Express
+This is the client-side application. It features two primary views: a Patient View for form entry and a Staff View for real time monitoring. Built with Next.js 16+, Tailwind CSS, and Socket.io-client.
 
 ## Getting Started
 Installation
@@ -23,13 +21,7 @@ CLIENT_URL=http://localhost:3000
 npm run dev
 ```
 
-## Production mode
-
-```bash
-npm start
-```
-
-## The domain on vercel
+## The domain on render
 
 ```bash
 https://patient-staff-backend.onrender.com
