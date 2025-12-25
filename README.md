@@ -23,7 +23,7 @@ CLIENT_URL=http://localhost:3000
 npm run dev
 ```
 
-## Production build
+## Production mode
 
 ```bash
 npm start
