@@ -23,6 +23,12 @@ CLIENT_URL=http://localhost:3000
 npm run dev
 ```
 
+## Production mode
+
+```bash
+npm start
+```
+
 ## The domain on render
 
 ```bash
